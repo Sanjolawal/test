@@ -10,4 +10,4 @@
  * cli 
  *  Tailwind installation using npm and npx
 
-![Image preview](1.jpg)
+![Image preview](src/1.PNG)
